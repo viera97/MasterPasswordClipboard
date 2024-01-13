@@ -5,9 +5,6 @@ For installing dependencies use:
 ```python
 pip install -r requirements.txt
 ```
-
-If you are using linux you migth need to install `xclip`.
-
 ### Use
 
 The ideal use is to create a keyboard shorcut for excecuting the script.

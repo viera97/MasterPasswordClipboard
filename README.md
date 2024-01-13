@@ -1,2 +1,19 @@
 # MasterPasswordClipboard
-This project will copy your master password to your clipboard
+This project will copy your master password to your clipboard.
+## Dependencies
+For installing dependencies use:
+```bash
+pip install -r requirements.txt
+```
+
+If you are using linux you migth need to install `xclip`.
+
+### Use
+
+The ideal use is to create a keyboard shorcut for excecuting the script.
+
+Create a file file `pass.env` and write your master password like this:
+
+```dotenv
+Master_Password="Example"
+```

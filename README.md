@@ -2,7 +2,7 @@
 This project will copy your master password to your clipboard.
 ## Dependencies
 For installing dependencies use:
-```bash
+```python
 pip install -r requirements.txt
 ```
 
